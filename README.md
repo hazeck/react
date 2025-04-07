@@ -75,4 +75,6 @@ To help you get your feet wet and get you familiar with our contribution process
 
 ### License
 
+this file has been edited by <chadrick>
+
 React is [MIT licensed](./LICENSE).
